@@ -11,3 +11,6 @@ The ads are paid for by the click, not impressions, so I shouldn't harm the auth
 <br>
 <br>
 If you want to contribute or talk or something, I'm unlikely to look at this github often. Steal my code, or message me on RR.
+<br>
+<br>
+Credit to <a href="https://gist.github.com/mancoi/297f7e05fc0663ce8bcf6aab1ea4cad3">Mancoi</a>, I use his sorting algorithm.

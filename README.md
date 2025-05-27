@@ -25,4 +25,6 @@ The list of ads <i>should</i> open by itself when it finishes.
 <br>
 It should create two new files: ad-catalogue.html, and ad_catalogue.txt. The first is the page you opened in the browser to view the ads. The second is html code for the ads that it found. If you run it again, it will include the ads from this list, plus any new ones. <br>
 I don't know how long RR keeps the images for ads for after the campaign finishes, so if you are getting lots of dead images/links, delete ad_catalogue.txt and start over with a fresh batch of ads.
- 
+
+ <h4> </h4>
+<p>num visitors https://visitorbadge.io/status?path=https%3A%2F%2Femmalemon2.github.io%2Frr-ad-list%2F</p>

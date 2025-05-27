@@ -7,7 +7,7 @@
 Hello. This program/webpage works by pretending to be a chapter of royal road, and loading the ads. Times a thousand or so. 
 <br>
 <br>
-The ads are paid for by the click, not impressions, so I shouldn't harm the authors' investment. If you click on an ad, I would guess it does count, but I'm fine with that. You should be here to find something to read anyway, and just got lost looking at this page.
+I probably do count as an impression on ads while I'm scraping them from the website, but once I load an ad it won't cost the author anything fo rme to show it to people. If I get at least a few people coming through here then it will probably even out. I think with the number of times I load each ad, I'm costing author somewhere around 0.03 cents (USD?) out of a minimum of $55 to place an ad. I can't see that rising above maybe 10 cents even if I update the list often, so I'm fine with that cost.
 <br>
 <br>
 If you want to contribute or talk or something, I'm unlikely to look at this github often. Steal my code, or message me on RR.
